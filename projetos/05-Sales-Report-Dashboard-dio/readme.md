@@ -108,4 +108,13 @@ Quais países estão comprando mais ?
 
 ---
 
+### Check-list:
+Dataset: Financial Sample
+1. Importar dados
+2. Criar layout do Dash
+3. Definir métrias
+4. Organizar objetos
+5. Inserir tipos de visualizações e vincular dados
+6. Agrupar objetos as visualizações
+7. Inserir indicadores nos botões (DropDown)
 
